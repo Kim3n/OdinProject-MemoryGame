@@ -10,7 +10,7 @@ import Default from './assets/back.png';
 import Special from './assets/specialset01.jpg';
 import Erika from './assets/erikaandvileplume.jpg';
 import Gamelost from './assets/loss.mp3';
-import Achievement from './assets/achievementPopup.wav';
+import Achievement from './assets/AchievementPopup.wav';
 import LoopMusic from './assets/music_loop.mp3';
 
 import Modal from "./components/Modal.jsx";
